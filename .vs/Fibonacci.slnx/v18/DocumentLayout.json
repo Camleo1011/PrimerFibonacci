@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Camleo1011\\source\\repos\\Fibonacci\\",
+  "WorkspaceRootPath": "D:\\repos\\Fibonacci\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4C35B23-0AB2-945D-4FCE-0A9631064AF6}|Fibonacci\\Fibonacci.csproj|c:\\users\\camleo1011\\source\\repos\\fibonacci\\fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C35B23-0AB2-945D-4FCE-0A9631064AF6}|Fibonacci\\Fibonacci.csproj|solutionrelative:fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\repos\\Fibonacci\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\repos\\Fibonacci\\Fibonacci\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Fibonacci\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +23,29 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\repos\\Fibonacci\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\repos\\Fibonacci\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-13T14:30:08.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Camleo1011\\source\\repos\\Fibonacci\\Fibonacci\\Program.cs",
+              "DocumentMoniker": "D:\\repos\\Fibonacci\\Fibonacci\\Program.cs",
               "RelativeDocumentMoniker": "Fibonacci\\Program.cs",
-              "ToolTip": "C:\\Users\\Camleo1011\\source\\repos\\Fibonacci\\Fibonacci\\Program.cs",
+              "ToolTip": "D:\\repos\\Fibonacci\\Fibonacci\\Program.cs",
               "RelativeToolTip": "Fibonacci\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T04:14:00.807Z",
               "EditorCaption": ""
