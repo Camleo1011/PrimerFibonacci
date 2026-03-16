@@ -20,19 +20,17 @@ namespace Fibo
             int c;
             int con = 2;
             int lim;
-            Console.WriteLine("ingrese un número");
-            try
+            bool limValido;
+
+            do
             {
+                Console.WriteLine("ingrese un número");
+                limValido = int.TryParse(Console.ReadLine(), out lim);
+                continue;
                 
             
-                lim = int.Parse(Console.ReadLine());
-            }
-            catch (Exception)
-            {
-                Console.WriteLine("ingrese un número válido");
-                return;
-            }
-            
+            }while(limValido == false || lim < 0);
+
             a = 0;
 
             b = 0;
