@@ -8,7 +8,7 @@ namespace Fibo
     {
         static void Main(string[] args) 
         {
-           Fibonacci();
+            Fibonacci();
             Console.WriteLine("presione una tecla para salir");
             Console.ReadLine();
         }
@@ -19,13 +19,13 @@ namespace Fibo
             int b;
             int c;
             int con = 2;
-            int lim;
+            long lim;
             bool limValido;
 
             do
             {
                 Console.WriteLine("ingrese un número");
-                limValido = int.TryParse(Console.ReadLine(), out lim);
+                limValido = long.TryParse(Console.ReadLine(), out lim);
                 continue;
                 
             
